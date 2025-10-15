@@ -159,7 +159,7 @@ img {
 
 /* Герой секция */
 .hero {
-    background: linear-gradient(135deg, #f5f7fa 0%, #e1d4f5 100%);
+    background: linear-gradient(135deg, #f5f7fa 0%, #ab88e1 100%);
     padding: 150px 0 80px;
 }
 
@@ -650,4 +650,5 @@ img {
         gap: 15px;
         text-align: center;
     }
+
 }
